@@ -1,0 +1,12 @@
+.detail-display{
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+.detail-display h2 {
+    margin: 20px;
+}

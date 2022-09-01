@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  background-color: rgb(206, 206, 206);
+  margin: 50px;
+  border-radius: 20px;
+  padding: 20px;
+  
+  /* display: grid;
+  grid-template-columns: auto auto; */
+  
+}
+.App input {
+  width: 500px;
+  margin: 5px;
+  height: 60px;
+  font-size: 20px;
+  border-radius: 10px;
+  border: 1px solid white;
+}
+.App lable {
+  font-size: 30px;
+}
+.inputFeilds{
+  display: grid;
+  grid-template-columns: auto auto;
+}
+.AddEmployeebtn{
+  padding: 10px;
+  font-size: 20px;
+  margin: 10px;
+  border-radius: 10px;
+  background-color: rgb(13, 216, 51);
+}
+
+
